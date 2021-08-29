@@ -27,15 +27,16 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 20px;
 }
 .result-1{
     background: transparent;
-    margin: 20px;
+    margin: 30px;
     text-align: center;
-    border: 1px solid seagreen;
+    border: 1px solid skyblue;
     border-radius: 5px;
     padding: 0px 30px;
-    background: skyblue;
+    background:transparent;
 }
 img{
     display: block;
